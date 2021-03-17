@@ -1,6 +1,8 @@
 {
-  "domain": "tcp",
-  "name": "TCP",
+  "domain": "tcp_ssl",
+  "name": "TCP SSL",
   "documentation": "https://www.home-assistant.io/integrations/tcp",
-  "codeowners": []
+  "codeowners": ["@fopina"],
+  "version": "0.1",
+  "issue_tracker": "https://github.com/fopina/home-assistant-tcp-ssl/issues"
 }
